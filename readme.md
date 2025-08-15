@@ -35,3 +35,14 @@ Para Salvar uma mensagem
 ```bash
 git commit -m "escrever aonde paramos" 
 ```
+
+Para baixar as alterações que estão apenas no Github utilizamos o pull<br>
+**IMPORTANTE** Sempre deve baixar a ultima versão da nuvem antes de enviar o atual do computador.
+```bash
+git pull
+```
+
+Para enviar os commits do pc para o Github utilizamos o **push**.<br>
+```bash
+git push
+```
